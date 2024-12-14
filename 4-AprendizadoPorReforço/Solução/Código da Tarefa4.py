@@ -127,3 +127,4 @@ if __name__ == '__main__':
 
     # Plotar recompensas
     plot_rewards(rewards)
+    print("codigo disponivel em notebook no colab")
